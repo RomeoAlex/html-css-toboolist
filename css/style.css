@@ -22,12 +22,15 @@ body{
     width:50%;
     margin:auto;
     margin-top: 30px;
-}
-#naviga{
     background-color: #ffffff;
-    border-bottom: #f6f8f9 2px;
     border-top-left-radius:  10px;
     border-top-right-radius: 10px;
+    border-bottom-left-radius:  10px;
+    border-bottom-right-radius: 10px;
+}
+#naviga{
+    
+    border-bottom: #f6f8f9 solid 2px;
     height: 70px;
 }
 
@@ -53,4 +56,35 @@ body{
     vertical-align: middle;
     margin-left: 20px;
     padding: 8px;
+}
+.contenitore2{
+    margin-left: 20px;
+    padding:20px;
+   /* background-color: blue;*/
+}
+li{
+    font-weight: bold;
+}
+.agenda{
+    list-style-type: none;
+}
+.sottoli{
+    list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+.separa{
+    margin-bottom: 20px;
+}
+.spunta-no{
+    color: crimson;
+    border:crimson 0.5px solid;
+    border-radius: 50%;
+}
+.spunta-si{
+    color: green;
+    border:green 0.5px solid;
+    border-radius: 50%;
+}
 }
