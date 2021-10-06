@@ -18,6 +18,10 @@ body{
  display: inline-block;
  vertical-align: middle;
 }
+.ingra{
+    font-size: 40px;
+    font-weight: 800;
+}
 .contenitore{
     width:50%;
     margin:auto;
