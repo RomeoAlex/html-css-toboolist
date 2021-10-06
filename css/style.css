@@ -35,8 +35,9 @@ body{
 }
 #naviga{
     /* utilizzo padding per distanziare gli elementi depreco l'altezzo*/
-    padding:13px;
+   /* padding:4px 0 4px 15px;*/
     border-bottom: #f6f8f9 solid 2px;
+    margin-left: 25px;
    /* height: 90px;*/
 }
 .botto{
@@ -107,10 +108,8 @@ li{
     padding:3px;
     font-size: 10px;
 }
-.edi{
-    background-color: #47adf1;
-    color: #f6f8f9;
-    border: #47adf1 solid 1px;
+/* modifica multiclasse per bottone */
+.bottino{
     border-radius: 13px;
     height: 35px;
     width:35px;
@@ -118,64 +117,40 @@ li{
     vertical-align: middle;
     padding: 7px 10px 7px 10px;
     font-size: 12px;
+}
+.edi{
+    background-color: #47adf1;
+    color: #f6f8f9;
+    border: #47adf1 solid 1px;
+    
 }
 .q1{
     background-color: #9c72e4;
     color: #f6f8f9;
     border: #9c72e4 solid 1px;
-    border-radius: 13px;
-    height: 35px;
-    width:35px;
-    line-height: 35px;
-    vertical-align: middle;
-    padding: 7px 10px 7px 10px;
-    font-size: 12px;
+    
 }
 .recru{
     background-color: #64c0a9;
     color: #f6f8f9;
     border: #64c0a9 solid 1px;
-    border-radius: 13px;
-    height: 35px;
-    width:35px;
-    line-height: 35px;
-    vertical-align: middle;
-    padding: 7px 10px 7px 10px;
-    font-size: 12px;
 }
 .mob{
     background-color: #f29e33;
     color: #f6f8f9;
     border: #f29e33 solid 1px;
-    border-radius: 13px;
-    height: 35px;
-    width:35px;
-    line-height: 35px;
-    vertical-align: middle;
-    padding: 7px 10px 7px 10px;
-    font-size: 12px;
+    
 }
 .wsite{
     background-color: #d863a1;
     color: #f6f8f9;
     border: #d863a1 solid 1px;
-    border-radius: 13px;
-    height: 35px;
-    width:35px;
-    line-height: 35px;
-    vertical-align: middle;
-    padding: 7px 10px 7px 10px;
-    font-size: 12px;
+    
+   
 }
 .sal{
     background-color: #b0c926;
     color: #f6f8f9;
     border: #b0c926 solid 1px;
-    border-radius: 13px;
-    height: 35px;
-    width:35px;
-    line-height: 35px;
-    vertical-align: middle;
-    padding: 7px 10px 7px 10px;
-    font-size: 12px;
+  
 }
