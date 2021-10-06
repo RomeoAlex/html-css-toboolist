@@ -35,10 +35,9 @@ body{
 }
 #naviga{
     /* utilizzo padding per distanziare gli elementi depreco l'altezzo*/
-   /* padding:4px 0 4px 15px;*/
+    padding:0px 4px 4px 20px;
     border-bottom: #f6f8f9 solid 2px;
-    margin-left: 25px;
-   /* height: 90px;*/
+    
 }
 .botto{
     border-radius: 5px;
@@ -54,25 +53,12 @@ body{
     background-color: #47adf1;
     color: #f6f8f9;
     border-radius: 5px;
-   /* border: #47adf1 solid 1px;
-    height: 70px;
-    width:70px;
-    line-height: 70px;
-    vertical-align: middle;
-    margin-left: 20px;
-    padding: 8px 20px 8px 20px;*/
+   
 }
 .botpri{
     color: #c5cbd0;
     border:#c5cbd0 solid 1px;
-   /* border-radius: 5px;
-    height: 70px;
-    width:70px;
-    line-height: 70px;
-     suggeriscono text-align 
-    vertical-align: middle;
-    margin-left: 20px;
-    padding: 8px 20px 8px 20px;*/
+   
 }
 .contenitore2{
     margin-left: 20px;
