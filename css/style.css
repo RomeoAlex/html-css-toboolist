@@ -38,10 +38,7 @@ body{
     border-bottom: #f6f8f9 solid 2px;
     height: 70px;
 }
-
-.botzur{
-    background-color: #47adf1;
-    color: #f6f8f9;
+.botto{
     border-radius: 5px;
     border: #47adf1 solid 1px;
     height: 70px;
@@ -51,16 +48,29 @@ body{
     margin-left: 20px;
     padding: 8px 20px 8px 20px;
 }
-.botpri{
-    color: #c5cbd0;
-    border:#c5cbd0 solid 1px;
+.botzur{
+    background-color: #47adf1;
+    color: #f6f8f9;
     border-radius: 5px;
+   /* border: #47adf1 solid 1px;
     height: 70px;
     width:70px;
     line-height: 70px;
     vertical-align: middle;
     margin-left: 20px;
-    padding: 8px 20px 8px 20px;
+    padding: 8px 20px 8px 20px;*/
+}
+.botpri{
+    color: #c5cbd0;
+    border:#c5cbd0 solid 1px;
+   /* border-radius: 5px;
+    height: 70px;
+    width:70px;
+    line-height: 70px;
+     suggeriscono text-align 
+    vertical-align: middle;
+    margin-left: 20px;
+    padding: 8px 20px 8px 20px;*/
 }
 .contenitore2{
     margin-left: 20px;
