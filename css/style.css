@@ -34,9 +34,10 @@ body{
     border-bottom-right-radius: 10px;
 }
 #naviga{
-    
+    /* utilizzo padding per distanziare gli elementi depreco l'altezzo*/
+    padding:13px;
     border-bottom: #f6f8f9 solid 2px;
-    height: 70px;
+   /* height: 90px;*/
 }
 .botto{
     border-radius: 5px;
