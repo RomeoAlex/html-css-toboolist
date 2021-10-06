@@ -81,11 +81,13 @@ li{
     color: crimson;
     border:crimson 0.5px solid;
     border-radius: 50%;
+    padding:3px;
 }
 .spunta-si{
     color: green;
     border:green 0.5px solid;
     border-radius: 50%;
+    padding:3px;
 }
 .edi{
     background-color: #47adf1;
